@@ -1,0 +1,21 @@
+.logo{
+  margin-left: 1000px;
+  height: 150px;
+  width: 150px;
+}
+.sh{
+    margin-top: 30px;
+    margin-left: 500px;
+    border: 30px solid grey;
+}
+h1{
+    margin-left: 530px;
+    text-align: center;
+
+}
+.kk{
+    width: max-content;
+    background-color: aqua;
+    margin-left: 550px;
+
+}
